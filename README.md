@@ -1,4 +1,4 @@
-### Olá!! me chamo Paulo Cesar e sou um grande entusiasta na área de tecnologia!
+### Olá!! me chamo Paulo Cesar, sou um estudante e apaixonado por tecnologia!
 
 ⁍ 💻 Atualmente cursando S.I. na UNIP (1°Sem)<br>
 ⁍ 📚 Estudando: HTML/CSS<br>
