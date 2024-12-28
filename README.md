@@ -1,7 +1,7 @@
 ### Olá!! me chamo Paulo Cesar, sou um estudante e apaixonado por tecnologia!
 
-⁍ 💻 Atualmente cursando Sistemas de Informação na UNIP (2°Sem)<br>
-⁍ 📚 Estudando: Python/Portugol<br>
+⁍ 💻 Atualmente cursando Sistemas de Informação na UNIP (4°Sem)<br>
+⁍ 📚 Estudando: Java, Javascript, Node js<br>
 ⁍ 😀 Pronouns: Ele/dele
 <hr>
 
